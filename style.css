@@ -1,0 +1,105 @@
+#glavna {
+  background-image: url(slike/o\ nama.jpg);
+  background-size: cover;
+  height: 1000px;
+}
+nav {
+  background-color: rgba(35, 214, 145, 0.664);
+  height: 100px;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  margin: 2px;
+  padding: 30px;
+}
+
+nav ul li {
+  float: left;
+  height: 40px;
+  color: aliceblue;
+}
+
+nav ul li a {
+  border: 2px solid thistle;
+  text-decoration: none;
+  padding: 12px 25px;
+  color: aliceblue;
+}
+
+ul li a:hover {
+  background-color: thistle;
+}
+#kontakt {
+  background-color: rgba(35, 214, 145);
+  color: aliceblue;
+  margin-top: 310px;
+  font-size: 1.3em;
+}
+#tekst1 {
+  text-align: center;
+  font-size: 40px;
+  margin-bottom: 0;
+  margin-top: 150px;
+  color: aliceblue;
+  font-weight: bolder;
+  text-shadow: 2px 1px wheat;
+}
+button {
+  padding: 20px 50px;
+  background-color: salmon;
+}
+button a {
+  text-decoration: none;
+  color: aliceblue;
+  font-size: 2em;
+}
+button:hover {
+  background-color: teal;
+}
+img {
+  width: 100%;
+}
+#onama {
+  text-align: center;
+
+  background-color: moccasin;
+  margin-top: 0;
+}
+#onama h2 {
+  font-size: 30px;
+}
+#onama p {
+  font-size: 30px;
+}
+#kontakt1 {
+  background-color: rgba(35, 214, 145);
+  font-size: 1.5em;
+  color: aliceblue;
+}
+
+#slike img {
+  width: 30%;
+  margin: 1.6666666%;
+}
+#proizvod {
+  text-align: center;
+
+  background-color: darksalmon;
+  color: aliceblue;
+}
+#proizvod h2 {
+  font-size: 2em;
+}
+#autor {
+  font-size: 2em;
+  text-align: center;
+  color: aliceblue;
+}
+#autor img {
+  width: 650px;
+}
+#autor1 {
+  background-color: cadetblue;
+}
